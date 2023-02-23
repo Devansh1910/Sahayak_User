@@ -1,0 +1,6 @@
+package com.devanshsaxena.cafedemoproduct.model
+
+class CategoryModel(
+    var cate: String? = "",
+    var img : String? = ""
+)
